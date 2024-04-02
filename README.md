@@ -1,0 +1,1 @@
+# solving-1D-transient-heat-equation-using-finite-difference-method
